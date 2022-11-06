@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -al . abc def ghi
+#how to print all thigs in defferent directory at the same time

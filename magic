@@ -1,0 +1,6 @@
+0	string MONEY This is a money file
+!:mime text/money
+#we set an offset of 0 i.e starts from the beginning of the file
+#check for any string that has the mention of money
+#then put the description, this is a money file
+#and give it the mime type of text/money

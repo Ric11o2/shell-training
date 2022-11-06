@@ -1,0 +1,6 @@
+#!/bin/bash
+ls -xamp
+#-x list files and directory in columns instead of lines
+#-a list the . files also
+#-m separates each files by comma
+#-p puts a / in front of folders listed

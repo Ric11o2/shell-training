@@ -1,0 +1,3 @@
+#!/bin/bash
+cd -
+#this change your working directory to where you were b4, no matter where you are now

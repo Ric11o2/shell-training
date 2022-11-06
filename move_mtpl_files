@@ -1,0 +1,3 @@
+#!/bin/bash
+mv [[:upper:]]* def
+#moving all uppercase file to def directory

@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -aln
+#this allows your name to be in number
